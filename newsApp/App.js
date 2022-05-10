@@ -52,7 +52,7 @@ function MyTabs() {
         options={{
           tabBarLabel: 'Category',
           tabBarIcon: ({ color, size }) => (
-            <MaterialCommunityIcons name="bell" color={color} size={size} />
+            <MaterialCommunityIcons name="list" color={color} size={size} />
           ),
         }}
       />
